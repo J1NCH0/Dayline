@@ -1,0 +1,6 @@
+[submodule "dayline-app"]
+	path = dayline-app
+	url = ../dayline-app.git
+[submodule "dayline-backend"]
+	path = dayline-backend
+	url = ../dayline-backend.git
